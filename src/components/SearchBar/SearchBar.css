@@ -1,0 +1,19 @@
+.search-bar {
+    box-shadow: 0 0 20px -10px rgba(0,0,0,0.3);
+    width: 50%;
+    height: 30px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.in-stock-check {
+    margin: 20px 20px 0;
+
+}
+
+p, label{
+    color: white;
+}
